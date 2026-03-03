@@ -1,8 +1,5 @@
 # Professional Casino & Slot Games Platform
 
-
-### **Enterprise-Grade Gaming Solution for Modern Casinos**
-
 [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igamezgamble)
 
 **Real-Time Multiplayer • Scalable Architecture • Production-Ready**
