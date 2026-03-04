@@ -70,7 +70,8 @@ https://github.com/user-attachments/assets/b87aef85-b5f3-4467-ac26-bf83f5a06f86
 - Tide system for dynamic gameplay
 
 <div align="center">
-  <img src="docs/images/games/fishing_game.png" alt="Fishing Game - BuffaloThunder" width="1200">
+    <img width="1681" height="939" alt="fishing_game" src="https://github.com/user-attachments/assets/b7596ffb-111d-482a-b6c3-55dd81afa33b" />
+
   <p><em>Premium multiplayer fishing game with real-time action, boss fish, and exciting gameplay features</em></p>
 </div>
 
